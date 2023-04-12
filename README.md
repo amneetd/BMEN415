@@ -2,10 +2,10 @@
 
 Group Members:
 
-Amneet Deol (30118867)
+Amneet Deol 
 
-Keenan Murphy (30077098)
+Keenan Murphy 
 
-Huzaifa Shafiq (30123304)
+Huzaifa Shafiq 
 
-Megan Lee (30087624)
+Megan Lee 
